@@ -10,12 +10,12 @@
   <a href="https://www.instagram.com/justuslangowsky"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&labelColor=000000&color=1a1a1a&logoColor=white&logo=instagram" /></a>
 </p>
 
-### Hi, I'm Justus 👋
+### Hi, I'm Justus 👋🏻
 
 Founder and AI visionary from Dresden, Germany. I build AI-native products end to end, from hardware-adjacent firmware and trading infrastructure to polished SaaS interfaces.
 
 - 🚀 Building **[Algosail](https://algosail.com)** - a no-code algorithmic trading platform for retail traders
-- 📒 Made **[Patchbook](https://github.com/justsecretzone/Patchbook)** - open-source review skills for Claude: comment right on websites, apps, images, PDFs, audio and video, Claude works through the patches
+- 📓 Made **[Patchbook](https://github.com/justsecretzone/Patchbook)** - open-source review skills for Claude: comment right on websites, apps, images, PDFs, audio and video, Claude works through the patches
 - 🛰️ Co-founder & CEO of **[Telron](https://telron.ai)** - wearable sensors that give soldiers early warning of incoming drones
 - 🤖 Deep into agentic AI: MCP servers, Claude / Anthropic API, AWS Bedrock, local LLMs
 - 📈 Building backtesting engines and execution infrastructure for MT5, Pine Script and Python
@@ -23,7 +23,7 @@ Founder and AI visionary from Dresden, Germany. I build AI-native products end t
 
 ---
 
-### 📒 Patchbook - open-source review skills for Claude
+### 📓 Patchbook - open-source review skills for Claude
 
 <a href="https://github.com/justsecretzone/Patchbook">
   <picture>
