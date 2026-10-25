@@ -14,7 +14,7 @@
 
 Founder and AI visionary from Dresden, Germany. I build AI-native products end to end, from hardware-adjacent firmware and trading infrastructure to polished SaaS interfaces.
 
-- 🚀 Building **[Algosail](https://github.com/justsecretzone/algosail)** - a no-code algorithmic trading platform for retail traders
+- 🚀 Building **[Algosail](https://algosail.com)** - a no-code algorithmic trading platform for retail traders
 - 📒 Made **[Patchbook](https://github.com/justsecretzone/Patchbook)** - open-source review skills for Claude: comment right on websites, apps, images, PDFs, audio and video, Claude works through the patches
 - 🛰️ Co-founder & CEO of **[Telron](https://telron.ai)** - wearable sensors that give soldiers early warning of incoming drones
 - 🤖 Deep into agentic AI: MCP servers, Claude / Anthropic API, AWS Bedrock, local LLMs
@@ -79,7 +79,7 @@ Founder and AI visionary from Dresden, Germany. I build AI-native products end t
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Algosail](https://github.com/justsecretzone/algosail)** | No-code platform to build, backtest and deploy trading strategies. Chart-based strategy builder, AI code generation for MQL5, Pine and Python, built-in IDE. | Next.js · Python · MT5 |
+| **[Algosail](https://algosail.com)** | No-code platform to build, backtest and deploy trading strategies. Chart-based strategy builder, AI code generation for MQL5, Pine and Python, built-in IDE. | Next.js · Python · MT5 |
 | **[Patchbook](https://github.com/justsecretzone/Patchbook)** | Review skills for Claude. Every website, app, image, PDF, audio or video Claude builds gets a review page: pin comments on the exact spot, attach screenshots, and Claude works through the patches version by version. | Claude Skills · JavaScript |
 | **[Telron](https://telron.ai)** | Defense tech: a compact wearable sensor that detects incoming drones and alerts soldiers on their smartwatch, buying them the seconds that matter. | Embedded · Edge AI · Wearables |
 | **[Founder Software](https://github.com/justsecretzone/founder-software)** | Lead generation and sales CRM with Google Maps scraping, lead enrichment and pipeline management. | Next.js · Prisma · Postgres |
