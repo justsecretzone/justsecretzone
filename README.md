@@ -59,25 +59,3 @@ Founder and AI visionary from Dresden, Germany. I build AI-native products end t
 <p>
   <a href="./claude-101-certificate.jpg"><img src="https://img.shields.io/badge/Claude_101-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/2ea043/justsecretzone" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=justsecretzone&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justsecretzone&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=justsecretzone&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=justsecretzone&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
-</p>
-
