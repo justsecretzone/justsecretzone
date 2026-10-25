@@ -7,7 +7,6 @@
   <a href="https://langowsky.com"><img src="https://img.shields.io/badge/Website-langowsky.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/justus-langowsky"><img src="https://img.shields.io/badge/LinkedIn-Justus_Langowsky-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/justuslangowsky"><img src="https://img.shields.io/badge/Instagram-@justuslangowsky-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=justsecretzone&style=flat-square&color=1f6feb&label=Profile+views" />
 </p>
 
 ### Hi, I'm Justus 👋
