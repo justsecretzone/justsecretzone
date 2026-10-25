@@ -42,8 +42,6 @@ Founder and AI visionary from Dresden, Germany. I build AI-native products end t
   <a href="https://github.com/justsecretzone/Patchbook"><img src="https://img.shields.io/github/stars/justsecretzone/Patchbook?style=for-the-badge&labelColor=000000&color=1a1a1a&logo=github&logoColor=white" /></a>
 </p>
 
-<a href="https://github.com/justsecretzone/Patchbook"><img src="https://raw.githubusercontent.com/justsecretzone/Patchbook/main/docs/website.png" width="100%" alt="Patchbook website review" /></a>
-
 - 🧩 **6 skills:** website, app, image, PDF, audio and video review
 - 📍 **Figma-style pins** on live sites at any breakpoint, draggable, with screenshots
 - 🔁 **Claude closes the loop:** say "work through the patches" and it ships the next version
