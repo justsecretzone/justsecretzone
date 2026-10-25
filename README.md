@@ -4,9 +4,10 @@
 <img src="./banner.svg" width="100%" alt="Justus Langowsky" />
 
 <p align="center">
-  <a href="https://langowsky.com"><img src="https://img.shields.io/badge/Website-langowsky.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/justus-langowsky"><img src="https://img.shields.io/badge/LinkedIn-Justus_Langowsky-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/justuslangowsky"><img src="https://img.shields.io/badge/Instagram-@justuslangowsky-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://langowsky.com"><img src="https://img.shields.io/badge/langowsky.com-1a1a1a?style=for-the-badge&labelColor=000000&color=1a1a1a&logoColor=white&logo=googlechrome" /></a>
+  <a href="mailto:justus@langowsky.com"><img src="https://img.shields.io/badge/justus@langowsky.com-1a1a1a?style=for-the-badge&labelColor=000000&color=1a1a1a&logoColor=white&logo=maildotru" /></a>
+  <a href="https://www.linkedin.com/in/justus-langowsky"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&labelColor=000000&color=1a1a1a&logoColor=white&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B" /></a>
+  <a href="https://www.instagram.com/justuslangowsky"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&labelColor=000000&color=1a1a1a&logoColor=white&logo=instagram" /></a>
 </p>
 
 ### Hi, I'm Justus 👋
