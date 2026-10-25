@@ -1,17 +1,18 @@
 <!-- Profile README for github.com/justsecretzone
      Place this file in a public repo named exactly "justsecretzone" -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Justus%20Langowsky&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Founder%20%C2%B7%20Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=16" width="100%" />
+<img src="./banner.svg" width="100%" alt="Justus Langowsky" />
 
 <p align="center">
   <a href="https://langowsky.com"><img src="https://img.shields.io/badge/Website-langowsky.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/justus-langowsky"><img src="https://img.shields.io/badge/LinkedIn-Justus_Langowsky-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/justuslangowsky"><img src="https://img.shields.io/badge/Instagram-@justuslangowsky-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=justsecretzone&style=flat-square&color=1f6feb&label=Profile+views" />
 </p>
 
 ### Hi, I'm Justus 👋
 
-Founder and full-stack engineer from Dresden, Germany. I build AI-native products end to end, from hardware-adjacent firmware and trading infrastructure to polished SaaS interfaces.
+Founder and AI visionary from Dresden, Germany. I build AI-native products end to end, from hardware-adjacent firmware and trading infrastructure to polished SaaS interfaces.
 
 - 🚀 Building **[Algosail](https://github.com/justsecretzone/algosail)** - a no-code algorithmic trading platform for retail traders
 - 🛰️ Co-founder & CEO of **[Telron](https://telron.ai)** - wearable sensors that give soldiers early warning of incoming drones
@@ -81,4 +82,3 @@ Founder and full-stack engineer from Dresden, Germany. I build AI-native product
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=justsecretzone&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
