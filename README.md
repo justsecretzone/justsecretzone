@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/justsecretzone
      Place this file in a public repo named exactly "justsecretzone" -->
 
-<img src="./banner-v3.svg" width="100%" alt="Justus Langowsky" />
+<img src="./banner-v4.svg" width="100%" alt="Justus Langowsky" />
 
 <p align="center">
   <a href="https://langowsky.com"><img src="https://img.shields.io/badge/langowsky.com-1a1a1a?style=for-the-badge&labelColor=000000&color=1a1a1a&logoColor=white&logo=googlechrome" /></a>
