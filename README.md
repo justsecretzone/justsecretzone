@@ -23,6 +23,38 @@ Founder and AI visionary from Dresden, Germany. I build AI-native products end t
 
 ---
 
+### 📒 Patchbook - open-source review skills for Claude
+
+<a href="https://github.com/justsecretzone/Patchbook">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justsecretzone/Patchbook/main/docs/logo-weiss.svg">
+    <img src="https://raw.githubusercontent.com/justsecretzone/Patchbook/main/docs/logo-schwarz.svg" width="56" align="left" alt="Patchbook">
+  </picture>
+</a>
+
+**Comment on what Claude builds, right where it is.** Every website, app, image, PDF, audio file or video Claude creates gets a review page: pin a patch on the exact element, spot or second, attach a screenshot, and Claude works through the list version by version.
+
+<br clear="left">
+
+<p>
+  <a href="https://github.com/justsecretzone/Patchbook/releases/latest"><img src="https://img.shields.io/badge/Download_skills-1a1a1a?style=for-the-badge&labelColor=000000&color=1a1a1a&logoColor=white&logo=github" /></a>
+  <a href="https://github.com/justsecretzone/Patchbook#install"><img src="https://img.shields.io/badge/Install_in_Claude-1a1a1a?style=for-the-badge&labelColor=000000&color=1a1a1a&logoColor=white&logo=anthropic" /></a>
+  <a href="https://github.com/justsecretzone/Patchbook"><img src="https://img.shields.io/github/stars/justsecretzone/Patchbook?style=for-the-badge&labelColor=000000&color=1a1a1a&logo=github&logoColor=white" /></a>
+</p>
+
+<a href="https://github.com/justsecretzone/Patchbook"><img src="https://raw.githubusercontent.com/justsecretzone/Patchbook/main/docs/website.png" width="100%" alt="Patchbook website review" /></a>
+
+- 🧩 **6 skills:** website, app, image, PDF, audio and video review
+- 📍 **Figma-style pins** on live sites at any breakpoint, draggable, with screenshots
+- 🔁 **Claude closes the loop:** say "work through the patches" and it ships the next version
+- 🆓 **Free and MIT licensed:** works in Claude, Claude Code and ChatGPT
+
+```
+/plugin marketplace add justsecretzone/Patchbook
+```
+
+---
+
 ### 🛠️ Tech Stack
 
 <p>
